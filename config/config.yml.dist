@@ -1,0 +1,5 @@
+spotify:
+    client_id:
+    client_secret:
+    callback_url:
+    access_token:
